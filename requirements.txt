@@ -1,0 +1,15 @@
+jupyter_dash
+dash_html_components
+dash_core_components
+dash_table
+dash.dependencies
+dash
+plotly
+pandas
+numpy
+matplotlib.pyplot
+matplotlib
+seaborn
+sklearn
+warnings
+statsmodels
